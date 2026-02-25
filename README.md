@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Krishna Golwala
+# 👋 Hi, I'm Krishna Golwala
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 ## 💻 Web Developer | BCA Graduate | MCA Student
@@ -55,11 +55,20 @@ I prioritize **simplicity, readability, and real-world usability** in all my pro
 
 ## 📂 Featured Projects
 
-- **Jewelry E-Commerce Website**  
+- **Digi Bouquet** (JavaScript, CSS, HTML)  
+  A modern web application featuring responsive UI design with a balance of JavaScript interactivity, custom CSS styling, and semantic HTML structure.
+
+- **Jewelry E-Commerce Website** (PHP, MySQL)  
   PHP-based platform with admin panel, cart system, checkout flow, and invoice generation.  
 
-- **Canteen Management System (C++)**  
+- **Canteen Management System** (C++)  
   Console-based application with Admin, Manager, and Staff roles using file handling and exception handling.  
+
+- **Krishna Portfolio** (HTML, CSS, JavaScript)  
+  Personal portfolio website showcasing projects and skills with responsive design and smooth user experience.
+
+- **SCET InfraDESK** (PHP, HTML)  
+  Infrastructure management system built with PHP backend and HTML frontend for efficient resource handling.
 
 > More projects are available in my repositories.
 
@@ -74,10 +83,10 @@ I prioritize **simplicity, readability, and real-world usability** in all my pro
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 - **Email:** golwalakrishna211@gmail.com  
 
 ---
 
-> *“Consistency and curiosity are my biggest strengths as a developer.”*
+> *"Consistency and curiosity are my biggest strengths as a developer."*
