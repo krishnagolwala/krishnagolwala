@@ -67,9 +67,6 @@ I prioritize **simplicity, readability, and real-world usability** in all my pro
 - **Krishna Portfolio** (HTML, CSS, JavaScript)  
   Personal portfolio website showcasing projects and skills with responsive design and smooth user experience.
 
-- **SCET InfraDESK** (PHP, HTML)  
-  Infrastructure management system built with PHP backend and HTML frontend for efficient resource handling.
-
 > More projects are available in my repositories.
 
 ---
