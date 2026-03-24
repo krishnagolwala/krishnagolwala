@@ -25,7 +25,7 @@
 
 - [🎓 Education](#-education)
 - [💼 Professional Experience](#-professional-experience)
-- [🛠️ Technical Skills](#️-technical-skills)
+- [🛠️ Technical Skills](#%EF%B8%8F-technical-skills)
 - [🚀 Featured Projects](#-featured-projects)
 - [📊 GitHub Stats](#-github-stats)
 - [🎯 Current Focus](#-current-focus)
